@@ -1,4 +1,4 @@
-﻿# # SBES 2023
+﻿# SBES 2023
 ## _The evolution of Requirements Engineering Solutions for Agile Software Development Issues: A Tertiary Study and a Trend analysis_
 ## _(Complementary Material)_
 
