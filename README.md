@@ -1,4 +1,4 @@
-# # SBES 2023
+﻿# # SBES 2023
 ## _The evolution of Requirements Engineering Solutions for Agile Software Development Issues: A Tertiary Study and a Trend analysis_
 ## _(Complementary Material)_
 
@@ -20,7 +20,7 @@
 **Results:** After executing the SLR protocol, we accepted 41 out of 254 studies and encountered ten main issues and 136 solutions used by academia for RE for ASD.
 **Conclusions:** On highlighting the remaining issues and the more recent and frequent RE solutions for ASD, we concluded that ASD suffers from inherent problems since the beginning that remains still, and no solutions go beyond traditional RE techniques to help solve these issues.
 
-## Repository 
+## Dataset
 - SBES2023-ALL-ARTICLES.csv: is a comma-separated file with all 254 found in our search in the digital libraries with their respective status (accepted, rejected).
 
 - SBES2023-DISTINCT-SOLUTIONS.csv: is a comma-separated file with all the distinct solutions we found in our research. They are classified according to our classification method, explained in the article.
