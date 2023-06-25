@@ -8,7 +8,7 @@
 ### Programa de Pós-Graduação em Informática (PPGI), Brasilia, Distrito Federal, Brazil
 
 ## Authors
-- James Taylor Faria Chaves (	jameschaves@outlook.com.br james.chaves@previc.gov.br jameschaves@gmail.com)
+- James Taylor Faria Chaves (	jameschaves@outlook.com.br jameschaves@gmail.com)
 - Edna Dias Canedo (edna.canedo@gmail.com edna@ecanedo.com ednacanedo@unb.br)
 - Rodrigo Pereira de Mesquita (rpmrodrigo@gmail.com)
 - Geovana Ramos Sousa Silva (geovannna.1998@gmail.com)
